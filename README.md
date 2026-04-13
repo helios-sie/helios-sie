@@ -15,7 +15,4 @@ I'm a Data Analyst and Embedded Systems Engineer with a passion for problem-solv
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=helios-sie&icon=5&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
